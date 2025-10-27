@@ -24,7 +24,6 @@ The model is trained using **Linear Regression** to provide accurate and interpr
 | Libraries | Pandas, NumPy, Scikit-learn, Pickle |
 | Model | Linear Regression |
 | Frontend | HTML, CSS, Bootstrap |
-| Deployment | Localhost / Render / Heroku |
 
 ---
 
@@ -130,8 +129,8 @@ Predicted Price: ₹4.85 Lakh
 ## 👨‍💻 Author
 
 **Gaurav Pandwar**  
-📧 [gauravpandwar@gmail.com](mailto:gauravpandwar@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/gp30) | [GitHub](https://github.com/gaurav-pandwar)
+📧 [Mail Me](mailto:gp3084@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gp30) | [GitHub](https://github.com/GPandwar30/car-price-prediction)
 
 ---
 
